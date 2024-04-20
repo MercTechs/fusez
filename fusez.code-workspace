@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "cSpell.words": ["sqlalchemy", "sqlmodel"],
+    "conventionalCommits.scopes": ["ROOT"]
+  },
+  "folders": [
+    {
+      "path": ".",
+      "name": "fusez"
+    },
+    {
+      "path": "./backend",
+      "name": "fusez/backend"
+    },
+    {
+      "path": "./frontend",
+      "name": "fusez/frontend"
+    }
+  ]
+}

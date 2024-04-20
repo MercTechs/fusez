@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "fusez-backend"
+		},
+		{
+			"path": "./fusez-backend.code-workspace",
+			"name": "fusez-backend.code-workspace"
+		}
+	],
+	"settings": {
+		"name": "fusez-backend"
+	}
+}
